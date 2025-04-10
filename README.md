@@ -1,2 +1,2 @@
 # hyprland_theme
-Default Hyprland theme based on built-in Hyprland logo icon cursor
+Default Hyprland xcursor theme based on built-in Hyprland logo icon cursor
