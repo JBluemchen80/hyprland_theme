@@ -1,0 +1,4 @@
+name = My hyprland logo cursor icon theme!
+description = Very cool!
+version = 0.1
+cursors_directory = hyprcursor # has to match the directory in the structure
