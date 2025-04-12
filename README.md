@@ -5,7 +5,7 @@ A scalable custom cursor theme based on by the built-in Hyprland logo icon curso
 - Original logo is 32px, XCursor demands that 24, 48, 64 and 96 sizes also better be present for resizing to work;
 - E.g. in your Gentoo setup it's gonna work smoothly and uniformly across kitty, nwg-look, waybar, vlc and such - all these guys just LOVE using each their own fallback source, if they get capricious for any reason (I don't use Arch btw ;-) (though I think it's also a fine distro ;-)
 ## Installation, XCursor
-- git clone or download cursors/hyprland_theme and place it into ~/.local/share/icons/hyprland_theme/cursors/
+- git clone or download cursors dir structure and place it into ~/.local/share/icons/hyprland_theme/
 - set up soft links to this file in the same dir, at the very least called default, left_ptr, arrow **this is a call on the original hyprland logo designer to make a proper theme :-)**
 - git clone or download index.theme and place it into ~/.local/share/icons/hyprland_theme/
 - [optional] if you wanna make from source, get the png's and the conf instead, and run xcursorgen hyprland_logo_cursor.conf hyprland_theme
