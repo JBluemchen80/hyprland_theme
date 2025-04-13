@@ -1,4 +1,5 @@
-🖱️ Hyprland Logo Cursor Theme
+![hyprland_logo_cursor24](https://github.com/user-attachments/assets/d7b6a404-f2f4-449b-ac9f-fd69c015243f)
+ Hyprland Logo Cursor Theme
 ==============================
 
 A scalable custom cursor theme based on the built-in Hyprland **logo icon** — provided in both `XCursor` and `Hyprcursor`formats.
