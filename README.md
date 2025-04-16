@@ -4,6 +4,10 @@
 
 A scalable custom cursor theme based on the built-in Hyprland **logo icon** — provided in both `XCursor` and `Hyprcursor`formats.
 
+<div align='center'>
+<img src="hypricon_cursor.gif" width="700" alt="Cursor in action gif" />
+</div>
+
 ✨ Features
 ----------
 
